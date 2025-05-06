@@ -1,0 +1,9 @@
+# BOAS PRATICAS DE GITHUB - commits 
+
+feat: nova funcionalidade
+fix: correção de bug
+docs: documentação
+style: formatação, estilo de código (sem alterar lógica)
+refactor: refatoração de código sem adicionar feature ou corrigir bug
+test: inclusão ou correção de testes
+chore: tarefas auxiliares (build, deps, scripts)
